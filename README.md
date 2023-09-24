@@ -45,5 +45,6 @@ The update_average method calculates the average rating and updates the display.
 
 Contributing
 Contributions to this project are welcome. You can contribute by creating pull requests, reporting issues, or suggesting improvements.
+https://github.com/aroonthp1/cosc110final/tree/main
 
 finall assignment
